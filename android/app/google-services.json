@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528216167354",
+    "firebase_url": "https://mindcom-fc2f0.firebaseio.com",
+    "project_id": "mindcom-fc2f0",
+    "storage_bucket": "mindcom-fc2f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528216167354:android:845f68997dec38a80cc383",
+        "android_client_info": {
+          "package_name": "com.example.mindcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528216167354-c8a2qj5velkjsa2qk8nkh1g08ue7m849.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindcom",
+            "certificate_hash": "e8d6b41fc39808810a89f05c98ca12d1e6606629"
+          }
+        },
+        {
+          "client_id": "528216167354-dedhd2tt82hbmgksj9902fjbfolfecpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYcl4I8FQYQkrTwsz3Z1edf3V85SG6IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528216167354-dedhd2tt82hbmgksj9902fjbfolfecpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
